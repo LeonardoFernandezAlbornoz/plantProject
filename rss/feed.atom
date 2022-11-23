@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://dev.example.com/</id>
+    <id>https://leonardofernandezalbornoz.github.io/plantProject/</id>
     <title>Rosemary</title>
     <subtitle>Information about rosemary</subtitle>
     <updated>2022-06-21T06:08:53Z</updated>
     ...
-    <entry>
-        <author>
-            <name>Leonardo Fernández Albornoz</name>
-        </author>
+    <author>
+        <name>Leonardo Fernández Albornoz</name>
+    </author>
+    <entry>   
+        <link>https://leonardofernandezalbornoz.github.io/plantProject//gallery.html</link>
         <title>Photo Gallery</title>
         ...
         <updated>2022-06-21T06:08:53Z</updated>
