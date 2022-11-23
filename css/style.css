@@ -1,0 +1,30 @@
+body{
+    margin:1em;
+    padding:1em;
+    
+}
+
+ul{
+    padding: 0%;
+    display: flex;
+    flex-direction:row;
+    list-style:none;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 50px;
+    column-gap: 50px;
+}
+
+
+h1{
+
+    text-align: center;
+    font-size: 100pt;
+}
+
+.subtitulo{
+
+    text-align: center;
+    font-size: x-large;
+}
+

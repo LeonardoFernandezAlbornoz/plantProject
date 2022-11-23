@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Rosemary</title>
+        <description>Information about rosemary</description>
+        <link>https://leonardofernandezalbornoz.github.io/projectRSSide/</link>
+        <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+        <managingEditor>a22leonardofa@iessanclemente.net</managingEditor>
+        <item>
+            <title>Photo gallery</title>
+            <link>https://leonardofernandezalbornoz.github.io/projectRSSide/gallery.html</link>
+            <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
+            <description>Gallery</description>
+        </item>
+    </channel>
+</rss>
